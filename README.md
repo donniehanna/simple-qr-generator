@@ -7,18 +7,18 @@ Generate high-quality QR codes from URLs using this Python script. This script u
 1. Ensure you have Python 3 installed on your system.
 2. Clone this repository or download the `qr_code_generator.py` file.
 3. Install the required dependencies by running the following command: 
-'''
+```
 pip install qrcode
-'''
+```
 
 ## Usage
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where the `qr_code_generator.py` file is located.
 3. Run the script using the following command:
-'''
+```
 python qr_code_generator.py
-'''
+```
 4. Follow the on-screen prompts to enter the URL, output file name, and size of the QR code.
 5. The generated QR code will be saved as a PNG file in the same directory.
 
